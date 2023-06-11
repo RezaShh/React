@@ -1,0 +1,5 @@
+install vscode extension: simple react snippts
+install node.js => it installs npm package manager
+CMD: node -v => to test that the node.js installed successfully, it will show the node version
+CMD: npm i -g create-react-app
+Open the CMD in your Directory: CMD: create-react-app [Project Name]
