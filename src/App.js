@@ -7,10 +7,10 @@ import { Component } from "react";
 //       //   <h1>hello world!</h1>
 //       //   <h2>this is react</h2>
 //       // </div>
-//       <>
-//         <h1>hello world!</h1>
-//         <h2>this is react</h2>
-//       </>
+//          <>
+//            <h1>hello world!</h1>
+//            <h2>this is react</h2>
+//          </>
 //     );
 //   }
 // }
